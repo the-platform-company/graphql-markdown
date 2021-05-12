@@ -1,5 +1,5 @@
 {
-  "name": "graphql-markdown",
+  "name": "tpc-graphql-markdown",
   "version": "6.0.0",
   "description": "Generate documentation for your GraphQL schema in Markdown",
   "main": "src/index.js",
