@@ -1,4 +1,4 @@
-export function loadSchemaJSON(url: string): Promise<string>
+export function loadSchemaJSON(url: string, options?: {headers?: Record<string, string | null>}): Promise<string>
 export function renderSchema(
   url: string,
   {
